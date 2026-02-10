@@ -1,10 +1,10 @@
 {
   "chain_name": "union",
   "api": [
-    "https://api.rpc-node.union-testnet-10.union.build"
+    "https://api.archive.union-testnet-10.union.build"
   ],
   "rpc": [
-    "https://rpc.rpc-node.union-testnet-10.union.build"
+    "https://rpc.archive.union-testnet-10.union.build"
   ],
   "sdk_version": "0.50.13",
   "addr_prefix": "union",
